@@ -1,0 +1,12 @@
+{
+  "name": "edge-viewer",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "lite-server --baseDir=public"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "lite-server": "^2.6.1"
+  }
+}
